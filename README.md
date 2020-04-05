@@ -18,7 +18,7 @@ In this project, I show how to achieve a score on the **top 1% worldwide** on th
 
 ### Fraud Detection: IEEE-CIS Fraud Detection  
 [Competition Link](https://www.kaggle.com/c/ieee-fraud-detection/overview)  
-[Submission Notebook](https://github.com/diegodebrito/tabular-data-techniques/blob/master/houses-final.ipynb)  
+[Submission Notebook](https://github.com/diegodebrito/tabular-data-techniques/blob/master/ieee-final-model.ipynb)  
 [Adversarial Validation](https://github.com/diegodebrito/tabular-data-techniques/blob/master/ieee-adversarial-validation.ipynb)
 
 
